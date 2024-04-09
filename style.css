@@ -1,0 +1,93 @@
+@font-face {
+    font-family: BANAAN;
+    src: url('Bananasplit.ttf') format('truetype');
+}
+.title {
+    text-align: center;
+    font-size: 8vw;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    font-family: 'Comic Sans MS';
+}
+.subtitle {
+    text-align: center;
+    font-size: 4vw;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+.center {
+    text-align: center;
+}
+#bananaberry {
+    color: black;
+}
+p {
+    font-size: 1.5em;
+}
+#banaan_plantation {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+body {
+    font-family: Helvetica;
+    padding: 1.5vh 7vw 1.5vh 7.00000001vw; 
+    background-image: linear-gradient(to bottom right, #70AA00, #EEEE00);
+    background-repeat: no-repeat;
+    margin: 0;  
+    max-height:100vh;
+    max-width:100vw;
+    background-position: center;
+    background-attachment: fixed;
+}
+#plantation-citation {
+    font-size: 75%;
+    padding-left: 10.6vw;
+}
+.half-left {
+    width: 50%;
+    text-align: left;
+    float: left;
+}
+.half-right {
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+#banaantree {
+    height: 50vh;
+}
+.bottom {
+    vertical-align: bottom;
+    float: bottom;
+}
+#page1 {
+    height: 100vh;
+}
+.banaansort {
+    float: right;
+    width: 49.99999%
+}
+.bananabread {
+    height:50vw;
+    width:40vw;
+}
+.page_right_link {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+.page_left_link {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}  
+.banana {
+    color: yellow;
+  text-shadow: 0 0 1vw #fb0;
+}   
+#room {
+    height: 80vh;
+    width: 49.9999%;
+}
