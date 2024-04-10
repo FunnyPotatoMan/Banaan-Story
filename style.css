@@ -86,6 +86,7 @@ body {
 .banana {
     color: yellow;
   text-shadow: 0 0 1vw #fb0;
+    font-family: 'BANAAN';
 }   
 #room {
     height: 80vh;
