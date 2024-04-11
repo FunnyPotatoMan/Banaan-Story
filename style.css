@@ -95,5 +95,6 @@ body {
     width: 49.9999%;
 }
 #banaansort {
-    width: 50vw;
+    width: 49.999999%;
+    max-width: 49.9999999%;
 }
