@@ -46,14 +46,12 @@ body {
     padding-left: 10.6vw;
 }
 .half-left {
-    max-width: 49.99999%;
     width: 49.99999%;
     text-align: left;
     float: left;
 }
 .half-right {
     width: 49.99999%;
-    max-width: 49.99999%
     float: right;
     text-align: right;
 }
